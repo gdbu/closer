@@ -1,4 +1,4 @@
-module github.com/hatchify/closer
+module github.com/gdbu/closer
 
 go 1.25
 
